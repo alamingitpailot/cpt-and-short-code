@@ -1,0 +1,5 @@
+1. Homework enqueue admin script for the shortcode columns also make sure that this assets are not loading elsewhere. Files: build/admin-post.css, build/admin-post.js
+
+
+2. Make your last block to the shortcode.
+    Add custom svg icon to the post type

@@ -1,0 +1,27 @@
+$primaryColor: #4527a4;
+
+.bBlocksInspectorInfo {
+  padding: 6px;
+
+  a {
+    text-decoration: none;
+    font-weight: 700;
+  }
+}
+
+.slickSliderSettings {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid gray;
+
+  .slideOptions {
+    padding: 20px;
+    border: 1px solid gray;
+    margin-bottom: 30px;
+  }
+}
+
+// .wp-block-b-blocks-blockname {
+//
+// }
